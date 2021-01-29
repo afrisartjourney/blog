@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Hola Afri"
+date:   2021-01-29 22:42:57 +0100
+categories: testing
+---
+
+Nulla in maximus erat, at pulvinar velit. Nam placerat neque nunc, non sodales nulla aliquam ac. Integer mollis consectetur est, quis ullamcorper eros consequat a. Duis vitae consequat ante. Suspendisse sed mollis libero. Donec et orci mauris. Sed aliquam neque et viverra elementum. Curabitur ut condimentum est. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
+
+Interdum et malesuada fames ac ante ipsum primis in faucibus. Nunc placerat iaculis dui, nec vehicula eros elementum eu. Pellentesque eget congue elit. Sed dapibus malesuada lorem vitae imperdiet. Curabitur ut risus magna. Aliquam velit tellus, venenatis nec elementum at, porta ut lectus. Fusce interdum vel augue vitae ullamcorper. Nullam pellentesque ex vel tellus tincidunt fringilla. Nunc eu risus eu libero rhoncus vestibulum at nec diam.
+
+Phasellus consectetur iaculis ullamcorper. Fusce consequat lectus nec fringilla pretium. Morbi volutpat ullamcorper faucibus. Nulla ornare vel erat in sagittis. Nulla at diam imperdiet, laoreet leo at, aliquam quam. Nulla facilisi. In elementum suscipit ipsum sed ullamcorper. Duis malesuada accumsan odio, nec varius libero ultricies sit amet. Nam rutrum odio ac dapibus ultrices. Pellentesque venenatis magna vitae orci lobortis, in iaculis nunc finibus. Donec vel elementum lacus. Aliquam ut nulla nunc. Vestibulum efficitur rhoncus libero eget tincidunt.
+
+Etiam quis lacus pulvinar, laoreet dolor eget, cursus lectus. Sed eu enim accumsan, varius dui id, cursus metus. Nam porta auctor massa ac tempus. In elementum turpis non neque efficitur efficitur. Nam venenatis iaculis leo quis semper. Nunc nec nibh non enim accumsan finibus. Etiam tellus nisl, mollis eu neque eget, semper euismod libero. Nunc rhoncus convallis scelerisque. Cras lacus ligula, scelerisque eu aliquam eu, egestas ac urna. Mauris bibendum mauris at odio dictum, ut commodo ante congue. Nulla arcu neque, varius sit amet magna at, malesuada molestie nisi. Mauris a mi non ligula iaculis tincidunt. 
+
+Imagen:
+
+![My helpful screenshot](/img/test_image.jpg)
